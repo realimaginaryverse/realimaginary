@@ -1,5 +1,5 @@
 # realimaginary
-Technologist inspired by Futurism and Time And Relative Dimension In Space.
+Technologist inspired by Futurism, Innovation, Infinity and Time And Relative Dimension In Space.
 
 My current main project is [The Real Imaginary Verse](https://opensea.io/collection/real-imaginary-verse)\
 A surrealist digital alternate reality of self-similarity made of pure computational mathematics mimicking real-world phenomena, shimmering with intimations of infinity.
